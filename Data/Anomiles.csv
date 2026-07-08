@@ -1,0 +1,11 @@
+txn_date,category,description,amount,category_avg,above_avg_by
+2019-06-20,"Home Improvement","Mike's Construction Co.",9200.00,530.36,8669.64
+2018-05-11,"Home Improvement","Mike's Construction Co.",8000.00,530.36,7469.64
+2019-01-31,"Credit Card Payment","Credit Card Payment",1900.00,465.37,1434.63
+2019-09-18,"Credit Card Payment","Credit Card Payment",1606.46,465.37,1141.09
+2019-04-01,"Credit Card Payment","Credit Card Payment",1552.65,465.37,1087.28
+2019-09-06,"Credit Card Payment","Credit Card Payment",1390.37,465.37,925.00
+2019-08-19,"Credit Card Payment","Credit Card Payment",1248.95,465.37,783.58
+2018-04-26,"Credit Card Payment","Credit Card Payment",1216.94,465.37,751.57
+2018-06-25,"Credit Card Payment","Credit Card Payment",942.76,465.37,477.39
+2018-04-02,"Credit Card Payment","Credit Card Payment",817.14,465.37,351.77
